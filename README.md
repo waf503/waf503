@@ -24,6 +24,6 @@ Más sobre mi:
 
 - ⚡ Mis Metas: 
 - Ser un exelente Full Stack web developer
-- Formar mi pripia empresa relacionada al desarrollo de Software
+- Formar mi propia empresa relacionada al desarrollo de Software
 - Desarrollar software de calidad, lograr que el cliente se sienta satisfecho con el trabajo
 - Adquirir un amplio conocimiento sobre las principales tecnologias relacionadas a las ciencia de la computación
