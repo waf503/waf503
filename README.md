@@ -1,5 +1,5 @@
 ### Soy Wilmer Alfredo Flores Melchor ###
-Estudiante de quinto año de Ingeniería en Ciencias de la Computación en la Universidad Don bosco.
+Ingeníero en Ciencias de la Computación, graduado de la Universidad Don bosco.
 
 
 Más sobre mi:
