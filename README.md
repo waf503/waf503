@@ -1,5 +1,5 @@
 ### Mi nombre es Wilmer Alfredo Flores Melchor ###
-Ingeníero en Ciencias de la Computación, graduado de la Universidad Don bosco.
+Ingeníero en Ciencias de la Computación, graduado de la Universidad Don Bosco.
 
 Más sobre mi:
 
