@@ -1,10 +1,9 @@
-### Soy Wilmer Alfredo Flores Melchor ###
+### Mi nombre es Wilmer Alfredo Flores Melchor ###
 Ingeníero en Ciencias de la Computación, graduado de la Universidad Don bosco.
-
 
 Más sobre mi:
 
-- 🔭 Actualmente estoy enfocado en el desarrollo web, tanto como Frontend como Backend, pienso que es un área muy importante que todo Ingeniero debería dominar.
+- 🔭 Actualmente estoy enfocado en el desarrollo web, tanto Frontend como Backend, es un área que siempre me ha llamado la atención ya que es lo que en un principio me inspiró a lo que es la programación.
 - 🌱 Las tecnologías con las que he trabajado son las siguiente:
       -PHP
       -C#
@@ -22,8 +21,8 @@ Más sobre mi:
 
 - 📫 Puesdes escribirme a mi correo: wilmerflores2012@hotmail.com
 
-- ⚡ Mis Metas: 
-- Ser un exelente Full Stack web developer
-- Formar mi propia empresa relacionada al desarrollo de Software
-- Desarrollar software de calidad, lograr que el cliente se sienta satisfecho con el trabajo
-- Adquirir un amplio conocimiento sobre las principales tecnologias relacionadas a las ciencia de la computación
+⚡ Mis Metas:
+-Ser un excelente Full Stack web developer.
+-Formar mi propia empresa relacionada con el desarrollo de software.
+-Desarrollar software de calidad y lograr que el cliente se sienta satisfecho con el trabajo.
+-Adquirir un amplio conocimiento sobre las principales tecnologías relacionadas con las ciencias de la computación
