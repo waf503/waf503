@@ -19,7 +19,6 @@ Más sobre mi:
       -Microsoft SQL Server   
       -Conocimiento sobre Redes de Datos, protocolos de enrutamiento, listas de acceso, subneteo, protocolos de autentificacion.
 
-- 📫 Puesdes escribirme a mi correo: wilmerflores2012@hotmail.com
 
 ⚡ Mis Metas:
 -Ser un excelente Full Stack web developer.
