@@ -1,4 +1,4 @@
-### Mi nombre es Wilmer Alfredo Flores Melchor ###
+### Mi nombre es Will Flores ###
 Ingeníero en Ciencias de la Computación, graduado de la Universidad Don Bosco.
 
 Más sobre mi:
